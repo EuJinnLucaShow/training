@@ -1,3 +1,10 @@
+.vscode
+.idea
+node_modules
+.env
+*.psd
+build/
+
 # Logs
 logs
 *.log
